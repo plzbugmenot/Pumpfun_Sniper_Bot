@@ -19,8 +19,8 @@ Using a free Quicknode RPC & automatic mode it took around 5-15s to be a coin si
 
 To run Pump.fun bot, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/0xTan1319/Pumpfun-Sniper-Bot`
-2. Navigate to the project directory: `cd Pumpfun-Sniper-Bot`
+1. Clone the repository: `https://github.com/plzbugmenot/Pumpfun_Sniper_Bot.git`
+2. Navigate to the project directory: `cd Pumpfun_Sniper_Bot`
 3. Install the dependencies: `npm i`
 4. Fill in `.env` (if you have no RPC, Quicknode is pretty good & free)
 5. Build the application: `npm run build`
@@ -41,6 +41,9 @@ To run Pump.fun bot, follow these steps:
 - [inquirer](https://www.npmjs.com/package/inquirer)
 - [typescript](https://www.npmjs.com/package/typescript)
 
+## Version 1.1  24/10/2024
+
 ## Contact
 
-- If u have interest or help, contact here telegram: [@shiny0103](https://t.me/shiny0103)
+- [Telegram](https://t.me/plzbugmenot)
+- [Email](mailto:pleasebugmenot.dev@gmail.com)
