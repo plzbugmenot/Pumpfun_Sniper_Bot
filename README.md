@@ -1,23 +1,21 @@
-# PumpFun Sniper Bot
+# 🎯 PumpFun Sniper Bot
 
-It's a Bot for sniping memecoins on Pump.Fun in your CMD. Fully made in Typescript. It uses the Solana blockchain and the Anchor framework to interact with the Pump.Fun bonding curve contract. The bot is designed to be fast and efficient, allowing you to quickly and easily snipe memecoins. It includes features such as automatic token acquisition, automatic price monitoring, and configurable settings.
+A high-performance bot for sniping memecoins on Pump.Fun through your CMD. Built with TypeScript on Solana blockchain, leveraging the Anchor framework to interact with Pump.Fun bonding curve contracts. Features automatic token acquisition, price monitoring, and customizable settings.
 
-# Bot speed
+## ⚡ Bot Performance
 
-The bot works pretty fast, it's in typescript so it will be obviously outperformed by other bots in Go/Rust, tho. That's why it's more likely a toy to experiment & learn than opportunity to earn some Sol.
-However, the speed of the script is still second and RPC is another matter.
-It is the RPC that determines how fast the tx will go through.
-Using a free Quicknode RPC & automatic mode it took around 5-15s to be a coin since it's created.
+- Written in TypeScript for balance between performance and maintainability
+- Transaction speed: 5-15s from coin creation (using free Quicknode RPC)
+- Speed primarily depends on RPC quality
+- Perfect for learning and experimenting with Solana DeFi
 
-# Main tools
+## 🛠️ Key Features
 
-- **Automatic sniper**: Launch a monitor on every new coin and automatically buy it
-- **Single sniper**: Buy a single coin just by providing it's contract address
-- _Soon more..._
+- 🤖 **Auto Sniper Mode**: Monitors and buys new coins automatically
+- 🎯 **Single Sniper Mode**: Target specific coins by contract address
+- 🚀 **More features coming soon!**
 
-## How to run
-
-To run Pump.fun bot, follow these steps:
+## 🚀 Quick Start
 
 1. Clone the repository: `https://github.com/plzbugmenot/Pumpfun_Sniper_Bot.git`
 2. Navigate to the project directory: `cd Pumpfun_Sniper_Bot`
@@ -27,19 +25,19 @@ To run Pump.fun bot, follow these steps:
 6. Run the bot using `auto` or `single` mode: `npm run <auto/single>`
 7. Follow the steps in the cmd
 
-## Technologies used
-
-- [Solana web3.js library](https://solana-labs.github.io/solana-web3.js/)
-- [@coral-xyz/anchor](https://www.npmjs.com/package/@coral-xyz/anchor)
-- [@coral-xyz/borsh](https://www.npmjs.com/package/@coral-xyz/borsh)
-- [@solana-developers/helpers](https://www.npmjs.com/package/@solana-developers/helpers)
-- [@solana/spl-token](https://www.npmjs.com/package/@solana/spl-token)
-- [@solana/web3.js](https://www.npmjs.com/package/@solana/web3.js)
-- [bn.js](https://www.npmjs.com/package/bn.js)
-- [dotenv](https://www.npmjs.com/package/dotenv)
-- [esbuild](https://www.npmjs.com/package/esbuild)
-- [inquirer](https://www.npmjs.com/package/inquirer)
-- [typescript](https://www.npmjs.com/package/typescript)
+## 💻 Tech Stack
+- Core Dependencies
+  - 🌐 Solana web3.js
+  - 🏗️ @coral-xyz/anchor
+  - 📦 @coral-xyz/borsh
+  - 🔧 @solana-developers/helpers
+  - ⚙ @solana/spl-token
+- Development Tools
+  - 🔢 bn.js
+  - 🔐 dotenv
+  - ⚡ esbuild
+  - 💬 inquirer
+  - 📝 typescript
 
 ## Version 1.1  24/10/2024
 
