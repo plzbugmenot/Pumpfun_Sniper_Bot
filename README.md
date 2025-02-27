@@ -42,5 +42,6 @@ Your ultimate companion for Solana memecoin trading on Pump.Fun! This lightning-
 
 - [Chat on Telegram](https://t.me/plzbugmenot)
 - [Drop me a mail](mailto:pleasebugmenot.dev@gmail.com)
+- 🎁 Tip jar: `54YAAqshj8BD5WJCsfy9vSCpgK8pC9NqW2cuKPrbUZqp`
 
 Happy sniping! 🎯✨
