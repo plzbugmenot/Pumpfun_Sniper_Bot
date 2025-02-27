@@ -1,47 +1,46 @@
 # 🎯 PumpFun Sniper Bot
 
-A high-performance bot for sniping memecoins on Pump.Fun through your CMD. Built with TypeScript on Solana blockchain, leveraging the Anchor framework to interact with Pump.Fun bonding curve contracts. Features automatic token acquisition, price monitoring, and customizable settings.
+Your ultimate companion for Solana memecoin trading on Pump.Fun! This lightning-fast TypeScript bot helps you catch those moonshots right from launch.
+
+## ScreenShots
 
 ## ⚡ Bot Performance
 
 - Written in TypeScript for balance between performance and maintainability
-- Transaction speed: 5-15s from coin creation (using free Quicknode RPC)
+- Transaction speed: 0-3s from coin creation (using Helius/Alchemy RPC)
 - Speed primarily depends on RPC quality
 - Perfect for learning and experimenting with Solana DeFi
 
-## 🛠️ Key Features
-
-- 🤖 **Auto Sniper Mode**: Monitors and buys new coins automatically
-- 🎯 **Single Sniper Mode**: Target specific coins by contract address
-- 🚀 **More features coming soon!**
+## 🎯 Core Features
+- 👀 Launch Detection: Never miss a new token launch
+- 🤖 Smart Trading: Automated buys and sells with your custom settings
+- 💫 Solana Magic: Direct blockchain interaction for maximum speed
+- 🔔 Stay Updated: Real-time alerts for all your trades
+- 📝 Track Everything: Detailed logs to review your trading journey
 
 ## 🚀 Quick Start
 
-1. Clone the repository: `https://github.com/plzbugmenot/Pumpfun_Sniper_Bot.git`
-2. Navigate to the project directory: `cd Pumpfun_Sniper_Bot`
+1. git clone `https://github.com/plzbugmenot/Pumpfun_Sniper_Bot.git`
+2. `cd Pumpfun_Sniper_Bot`
 3. Install the dependencies: `npm i`
-4. Fill in `.env` (if you have no RPC, Quicknode is pretty good & free)
-5. Build the application: `npm run build`
-6. Run the bot using `auto` or `single` mode: `npm run <auto/single>`
-7. Follow the steps in the cmd
+4. Fill in `.env` (if you have no RPC, Quicknode/Helius is pretty good & free)
+5. Build the application: `npm start`
+6. Follow the steps in the cmd
 
-## 💻 Tech Stack
-- Core Dependencies
-  - 🌐 Solana web3.js
-  - 🏗️ @coral-xyz/anchor
-  - 📦 @coral-xyz/borsh
-  - 🔧 @solana-developers/helpers
-  - ⚙ @solana/spl-token
-- Development Tools
-  - 🔢 bn.js
-  - 🔐 dotenv
-  - ⚡ esbuild
-  - 💬 inquirer
-  - 📝 typescript
+## 🛠️ Built With Love Using
+- TypeScript & Node.js
+- MongoDB
+- Email Security
+- Solana/web3
+- PumpFun API
+- DexScreener API
+- Jupiter API
 
-## Version 1.1  24/10/2024
+## 🎉 Latest Release: v1.3 (Feb 27, 2025)
 
-## Contact
+## 💬 Let's Connect!
 
-- [Telegram](https://t.me/plzbugmenot)
-- [Email](mailto:pleasebugmenot.dev@gmail.com)
+- [Chat on Telegram](https://t.me/plzbugmenot)
+- [Drop me a mail](mailto:pleasebugmenot.dev@gmail.com)
+
+Happy sniping! 🎯✨
