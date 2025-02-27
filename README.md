@@ -1,6 +1,9 @@
 # 🎯 PumpFun Sniper Bot
 
-Your ultimate companion for Solana memecoin trading on Pump.Fun! This lightning-fast TypeScript bot helps you catch those moonshots right from launch.
+The Solana Trading Bot is a software tool designed to automate the buying and selling of tokens on the Solana blockchain. It is configured to execute trades based on predefined parameters and strategies set by the user.
+
+The bot can monitor market conditions in real-time, such as pool burn, mint renounced and other factors, and it will execute trades when these conditions are fulfilled.
+
 
 ## ScreenShots
 ![sniper (2)](https://github.com/user-attachments/assets/ee47b47f-7052-49f8-b55f-07bf4c8bd3f3)
