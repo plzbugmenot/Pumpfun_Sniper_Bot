@@ -3,7 +3,9 @@
 Your ultimate companion for Solana memecoin trading on Pump.Fun! This lightning-fast TypeScript bot helps you catch those moonshots right from launch.
 
 ## ScreenShots
-
+![sniper (2)](https://github.com/user-attachments/assets/ee47b47f-7052-49f8-b55f-07bf4c8bd3f3)
+`https://solscan.io/tx/gKBzDw2EUcgbmRC82Jghyg1wENLGEuMiTQhH8ReHZWN25hma3c7F5W8mdj3f6sm5M3jF1Wt7hyuYi9aLsAUXYxp`
+![gmgn 3](https://github.com/user-attachments/assets/5389516e-444e-4697-9008-94699428a2a0)
 ## ⚡ Bot Performance
 
 - Written in TypeScript for balance between performance and maintainability
